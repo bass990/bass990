@@ -56,11 +56,3 @@ bassiroudiallo1305@gmail.com · [LinkedIn](https://linkedin.com/in/mamadou9905)
 
 Looking for full-time AI engineering roles starting summer 2027, new-grad or early-career, with data engineering as a close second. Based in Dallas-Fort Worth, open to relocation.
 
-<!--
-SETUP (delete this block once done):
-1. github.com/new -> repository name exactly "bass990", public, no README. Put this file in it as README.md and push.
-2. Create the two public repos "sec-filings-lakehouse" and "gharchive-streaming-lakehouse" on GitHub, add them as
-   remotes to the local folders of the same name, and push; the links above assume those names.
-3. Pin six, in this order: chainpilot, triageiq, clauseguard, sec-filings-lakehouse, gharchive-streaming-lakehouse, sba-loan-default-prediction.
-4. Profile sidebar: same headshot as LinkedIn, location Dallas, TX, the gmail, the LinkedIn URL.
--->

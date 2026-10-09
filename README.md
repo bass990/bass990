@@ -1,6 +1,6 @@
 # Mamadou Bassirou Diallo
 
-MSBA + AI at UT Dallas, graduating May 2027. I build AI systems and the data platforms under them, end to end, and I run the evaluation that could kill my own favourite feature before I ship it. Several of the repos below changed their production default because of what that eval found.
+MSBA + AI at UT Dallas, graduating 2027. I build AI systems and the data platforms under them, end to end, and I run the evaluation that could kill my own favourite feature before I ship it. Several of the repos below changed their production default because of what that eval found.
 
 Every project here is complete: tests, CI, a Docker image, a section on what broke while building it, and a section on what it cannot do yet.
 
@@ -43,7 +43,7 @@ Python · SQL · Apache Iceberg · Spark Structured Streaming · Kafka / Redpand
 
 ## Education
 
-- M.S. Business Analytics and AI, The University of Texas at Dallas, May 2027
+- M.S. Business Analytics and AI, The University of Texas at Dallas, 2027 (expected)
 - B.S. double major in AI Engineering and Management Information Systems, Sahmyook University, Seoul. Taught in Korean.
 
 ## Languages
@@ -54,5 +54,5 @@ English · French (native) · Korean · basic Spanish
 
 bassiroudiallo1305@gmail.com · [LinkedIn](https://linkedin.com/in/mamadou9905)
 
-Looking for full-time AI engineering roles starting summer 2027, new-grad or early-career, with data engineering as a close second. Based in Dallas-Fort Worth, open to relocation.
+Open to AI engineering internships and full-time roles from 2027, new-grad or early-career, with data engineering as a close second. Based in Dallas-Fort Worth, open to relocation.
 
